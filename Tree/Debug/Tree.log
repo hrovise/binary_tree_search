@@ -1,0 +1,5 @@
+﻿  main.cpp
+h:\programming ide\с++\резерв\6-й проект(tree)\tree_pshechenko\tree\tree\tree.cpp(76): warning C4715: Tree<int,int>::Exist: значение возвращается не при всех путях выполнения
+h:\programming ide\с++\резерв\6-й проект(tree)\tree_pshechenko\tree\tree\tree.h(45): warning C4715: Tree<int,int>::Find: значение возвращается не при всех путях выполнения
+  Tree.vcxproj -> H:\Programming IDE\С++\резерв\6-й проект(Tree)\Tree_Pshechenko\Tree\Debug\Tree.exe
+  Tree.vcxproj -> H:\Programming IDE\С++\резерв\6-й проект(Tree)\Tree_Pshechenko\Tree\Debug\Tree.pdb (Partial PDB)
